@@ -1,0 +1,19 @@
+[0;34m2024-10-20 16:22:19-STEP[INFO] Server is ready! @ server.py[665][0m
+[0;34m2024-10-20 16:22:19-STEP[INFO] Start the TCP service, listing 1379 on IP All available @ server.py[666][0m
+[0;34m2024-10-20 16:22:24-STEP[INFO] --> New connection from 127.0.0.1 on 52962 @ server.py[672][0m
+[0;34m2024-10-20 16:22:24-STEP[WARNING] Connection is closed by client. @ server.py[537][0m
+[0;34m2024-10-20 16:22:24-STEP[INFO] Connection close. ('127.0.0.1', 52962) @ server.py[650][0m
+[0;34m2024-10-20 16:25:47-STEP[INFO] --> New connection from 127.0.0.1 on 53116 @ server.py[672][0m
+[0;34m2024-10-20 16:25:47-STEP[WARNING] Connection is closed by client. @ server.py[537][0m
+[0;34m2024-10-20 16:25:47-STEP[INFO] Connection close. ('127.0.0.1', 53116) @ server.py[650][0m
+[0;34m2024-10-20 16:35:48-STEP[INFO] Server is ready! @ server.py[665][0m
+[0;34m2024-10-20 16:35:48-STEP[INFO] Start the TCP service, listing 1379 on IP All available @ server.py[666][0m
+[0;34m2024-10-20 16:35:51-STEP[INFO] --> New connection from 127.0.0.1 on 53867 @ server.py[672][0m
+[0;34m2024-10-20 16:35:51-STEP[WARNING] Connection is closed by client. @ server.py[537][0m
+[0;34m2024-10-20 16:35:51-STEP[INFO] Connection close. ('127.0.0.1', 53867) @ server.py[650][0m
+[0;34m2024-10-20 16:36:06-STEP[INFO] --> New connection from 127.0.0.1 on 53884 @ server.py[672][0m
+[0;34m2024-10-20 16:36:06-STEP[INFO] --> Plan to save/upload a file with key "xjtlu.jpg" @ server.py[315][0m
+[0;34m2024-10-20 16:36:06-STEP[ERROR] <-- Upload plan: key xjtlu.jpg, total block number 1, block size 20480. @ server.py[343][0m
+[0;34m2024-10-20 16:36:06-STEP[INFO] --> Upload file/block of "key" xjtlu.jpg. @ server.py[392][0m
+[0;34m2024-10-20 16:36:06-STEP[WARNING] Connection is closed by client. @ server.py[537][0m
+[0;34m2024-10-20 16:36:06-STEP[INFO] Connection close. ('127.0.0.1', 53884) @ server.py[650][0m
